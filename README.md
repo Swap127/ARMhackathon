@@ -4,3 +4,5 @@ if it is in the gravitational field of the Earth or Moon. Only the connection be
 
 The Earth(spiral1) is at (0,0) with radius 1440
 The Moon(spiral2) is at (2500,2500) with radius 360
+
+update: It is now complete 
